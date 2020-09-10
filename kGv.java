@@ -10,7 +10,7 @@ public class kGv {
         /* Der Benutzer gibt die Zahlen ein */
     private static int eingabe() {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Geben Sie eine Zahl ein: ");
+        System.out.print("Hurensohn gib zahl: ");
         return scanner.nextInt();
 
     }
